@@ -1,9 +1,7 @@
-# Supervised Learning: Case Studies & Experiments
+# Supervised Learning: Case Studies & Experiments [Classification, Regression, Computer Vision, NLP, Speech and Audio, Medical and Biomedical, Recommendation Systems, Human-Centered, Explainable and Decision Support]
 
 This repository contains multiple semi-supervised learning projects
 designed to study learning with limited labeled data across different domains.
-
-# Supervised Machine Learning: Task Landscape
 
 ## 1. Classification Tasks
 
