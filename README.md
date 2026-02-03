@@ -1,1 +1,1 @@
-# semi-supervised-learning-project
+# Semi-Supervised-Learning-Project
