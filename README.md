@@ -1,7 +1,6 @@
-# Supervised Learning: Case Studies & Experiments [Classification, Regression, Computer Vision, NLP, Speech and Audio, Medical and Biomedical, Recommendation Systems, Human-Centered, Explainable and Decision Support]
+# Supervised Learning: Case Studies & Experiments 
 
-This repository contains multiple semi-supervised learning projects
-designed to study learning with limited labeled data across different domains.
+This repository contains multiple supervised learning projects designed to study learning with limited labeled data across different domains. [Classification, Regression, Structured Prediction, Computer Vision, NLP, Speech and Audio, Medical and Biomedical, Recommendation Systems, Human-Centered, Explainable and Decision Support]
 
 ## 1. Classification Tasks
 
@@ -77,20 +76,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 3. Ranking & Scoring Tasks
-
-**Output: ordered list or score**
-
-* Search engine ranking
-* Recommendation system ranking
-* Credit scoring
-* Risk scoring (medical, insurance)
-* Student performance ranking
-* Fraud risk prioritization
-
----
-
-## 4. Structured Prediction Tasks
+## 3. Structured Prediction Tasks
 
 **Output: structured objects**
 
@@ -103,11 +89,11 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 5. Computer Vision Tasks (Supervised)
+## 4. Computer Vision Tasks (Supervised)
 
 **Labels come from images/videos**
 
-### 5.1 Image-Level Tasks
+### 4.1 Image-Level Tasks
 
 * Image classification
 * Medical image diagnosis
@@ -116,7 +102,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 5.2 Object-Level Tasks
+### 4.2 Object-Level Tasks
 
 * Object detection
 * Face detection
@@ -126,7 +112,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 5.3 Pixel-Level Tasks
+### 4.3 Pixel-Level Tasks
 
 * Semantic segmentation
 * Instance segmentation
@@ -135,7 +121,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 5.4 Video Tasks
+### 4.4 Video Tasks
 
 * Action recognition
 * Event detection
@@ -144,9 +130,9 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 6. Natural Language Processing Tasks (Supervised)
+## 5. Natural Language Processing Tasks (Supervised)
 
-### 6.1 Text Classification
+### 5.1 Text Classification
 
 * Sentiment analysis
 * Spam detection
@@ -155,7 +141,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 6.2 Information Extraction
+### 5.2 Information Extraction
 
 * Named entity recognition
 * Relation extraction
@@ -164,7 +150,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 6.3 Text Regression
+### 5.3 Text Regression
 
 * Essay scoring
 * Readability scoring
@@ -172,7 +158,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-### 6.4 Question Answering (Supervised)
+### 5.4 Question Answering (Supervised)
 
 * Reading comprehension
 * Factoid QA
@@ -180,7 +166,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 7. Speech & Audio Tasks
+## 6. Speech & Audio Tasks
 
 * Speech recognition
 * Speaker identification
@@ -190,7 +176,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 8. Medical & Biomedical Tasks
+## 7. Medical & Biomedical Tasks
 
 * Disease diagnosis
 * Lesion detection
@@ -201,17 +187,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 9. Remote Sensing & Geospatial Tasks
-
-* Land cover classification
-* Change detection
-* Crop yield prediction
-* Flood/fire detection
-* Urban expansion mapping
-
----
-
-## 10. Recommendation Systems (Supervised Angle)
+## 8. Recommendation Systems (Supervised Angle)
 
 * Movie recommendation
 * Product recommendation
@@ -221,27 +197,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 11. Industrial & Engineering Tasks
-
-* Predictive maintenance
-* Fault detection
-* Quality inspection
-* Process optimization
-* Sensor calibration
-
----
-
-## 12. Financial & Business Tasks
-
-* Credit approval
-* Fraud detection
-* Risk assessment
-* Demand forecasting
-* Marketing response prediction
-
----
-
-## 13. Human-Centered Tasks
+## 9. Human-Centered Tasks
 
 * Face recognition
 * Emotion recognition
@@ -251,7 +207,7 @@ designed to study learning with limited labeled data across different domains.
 
 ---
 
-## 14. Explainable & Decision-Support Tasks
+## 10. Explainable & Decision-Support Tasks
 
 * Clinical decision support
 * Legal decision prediction
